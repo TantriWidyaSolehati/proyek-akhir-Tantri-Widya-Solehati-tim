@@ -243,11 +243,8 @@ proyek-akhir-nama-tim/
 URL Repository:
 
 ```text
-https://github.com/nama-tim/proyek-akhir-nama-tim
+https://github.com/TantriWidyaSolehati/proyek-akhir-Tantri-Widya-Solehati-tim.git
 ```
-
-*(akan diisi setelah repository dibuat)*
-
 ---
 
 ## Kesimpulan
